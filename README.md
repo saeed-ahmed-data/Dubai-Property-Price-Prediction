@@ -1,4 +1,4 @@
-# 🏠 Dubai Property Price Prediction
+# 🏠  Property Price Prediction
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Status](https://img.shields.io/badge/Status-In%20Progress-yellow.svg)]()
