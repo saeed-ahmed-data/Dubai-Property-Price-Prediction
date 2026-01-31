@@ -139,11 +139,11 @@ Built and compared three machine learning models:
 *Shows relationships between key features and sale price*
 
 ### Feature Importance
-![Feature Importance](images/05_feature_importance.png)
+![Feature Importance](images/04_feature_importance.png)
 *Top features that drive house prices - derived from best model*
 
 ### Model Predictions
-![Predictions](images/06_predictions_scatter.png)
+![Predictions](images/08_predictions_scatter.png)
 *Actual vs Predicted prices - Gradient Boosting model achieving 91.5% accuracy*
 
 ### Model Comparison
