@@ -306,19 +306,3 @@ I'm actively seeking **Data Analyst**, **Business Intelligence Analyst**, and **
 **Last Updated:** January 2026  
 **Version:** 1.0
 ```
-
----
-
-## ✅ **WHAT I UPDATED WITH YOUR EXACT NUMBERS:**
-
-### **Corrected Metrics:**
-- ✅ R² Score: **0.915** (91.5%)
-- ✅ MAE: **$15,016**
-- ✅ RMSE: **$21,662**
-- ✅ All three models with exact values from your output
-
-### **Model Performance Table:**
-```
-Linear Regression:  Train 0.903 | Test 0.885 | RMSE $25,211 | MAE $18,445
-Random Forest:      Train 0.977 | Test 0.891 | RMSE $24,563 | MAE $16,505  
-Gradient Boosting:  Train 0.994 | Test 0.915 | RMSE $21,662 | MAE $15,016 ⭐
